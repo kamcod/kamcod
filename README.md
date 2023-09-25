@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Muhammad Kamran 👋
+A Full Stack Developer
+having work experience on different technologies like React js, Vue js, Next js, typescript, Node js, express js and much more
 
 <!--
 **kamcod/kamcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
